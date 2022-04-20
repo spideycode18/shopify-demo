@@ -63,7 +63,7 @@
                       {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
                       <a href="{{ item.url }}" class="cart-item__link" aria-hidden="true" tabindex="-1"> </a>
                         <div class="cart-item__image-container gradient global-media-settings">
-                          <img src="{{ item.image | image_url: width: 300 }}"
+                          <img src="{{ item.image | img_url: '300x' }}"
                             class="cart-item__image"
                             alt="{{ item.image.alt | escape }}"
                             loading="lazy"
@@ -72,11 +72,12 @@
                           >
                         </div>
                     {% endif %}
+
                   </td>
 
                   <td class="cart-item__details">
                     {%- if section.settings.show_vendor -%}
-                      <p class="caption-with-letter-spacing">{{ item.product.vendor }}</p>
+                      <p class="caption-with-letter-spacing light">{{ item.product.vendor }}</p>
                     {%- endif -%}
 
                     <a href="{{ item.url }}" class="cart-item__name h4 break">{{ item.product.title | escape }}</a>
@@ -279,6 +280,14 @@
                           {{ item.variant.unit_price_measurement.reference_unit }}
                         </div>
                       {%- endif -%}
+                    </div>
+                  </td>
+
+                </tr>
+                <tr>
+                  <td colspan="5">
+                    <div class="cart-item-delivery-address-form-section">
+                      {% render 'cart-item-delivery-address-form', cart_item: item %}
                     </div>
                   </td>
                 </tr>

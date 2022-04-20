@@ -146,9 +146,7 @@
       },
       "view_full_details": "Покажи пълните подробности",
       "include_taxes": "С включени данъци.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Доставката</a> се изчислява при плащане.",
-      "choose_options": "Изберете опции",
-      "choose_product_options": "Изберете опции за {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Доставката</a> се изчислява при плащане."
     },
     "modal": {
       "label": "Мултимедийна галерия"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Приложи",
       "clear": "Изчисти",
-      "clear_all": "Премахване на всички",
+      "clear_all": "Изчисти всички",
       "from": "От",
       "filter_and_sort": "Филтриране и сортиране",
       "filter_by_label": "Филтър:",
@@ -178,10 +176,7 @@
       "sort_button": "Сортиране",
       "sort_by_label": "Сортиране по:",
       "to": "Към",
-      "clear_filter": "Премахване на филтъра",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} избрани филтъра)",
-      "show_more": "Покажи повече",
-      "show_less": "Покажи по-малко"
+      "clear_filter": "Изчисти филтъра"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "send": "Изпрати",
         "post_success": "Благодарим, че се свързахте с нас. Ще се свържем с вас възможно най-скоро.",
         "error_heading": "Коригирайте следното:",
-        "phone": "Телефонен номер",
-        "title": "Формуляр за контакт"
+        "phone": "Телефонен номер"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Покажи всички",
-      "view_all_label": "Покажи всички продукти в колекция {{ collection_name }}",
-      "slider": "Плъзгач"
+      "view_all_label": "Покажи всички продукти в колекция {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Покажи всички"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Колекция",
       "empty": "Не са открити продукти",
-      "use_fewer_filters_html": "Използвайте по-малко филтри или <a class=\"{{ class }}\" href=\"{{ link }}\">премахнете всички</a>"
+      "use_fewer_filters_html": "Използвайте по-малко филтри или <a class=\"{{ class }}\" href=\"{{ link }}\">изчистете всички</a>"
     },
     "video": {
       "load_video": "Зареждане на видео: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Възпроизвеждане на слайдшоу",
       "carousel": "Въртележка",
       "slide": "Слайд"
-    },
-    "page": {
-      "title": "Заглавие на страница"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Връзка за проследяване",
       "tracking_company": "Превозвач",
       "tracking_number": "Номер за проследяване",
-      "subtotal": "Междинна сума",
-      "total_duties": "Мито"
+      "subtotal": "Междинна сума"
     }
   },
   "gift_cards": {

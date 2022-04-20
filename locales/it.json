@@ -104,7 +104,7 @@
     "product": {
       "add_to_cart": "Aggiungi al carrello",
       "description": "Descrizione",
-      "on_sale": "In offerta",
+      "on_sale": "Vendita",
       "product_variants": "Varianti di prodotto",
       "quantity": {
         "label": "Quantità",
@@ -115,7 +115,7 @@
       "price": {
         "from_price_html": "Da {{ price }}",
         "regular_price": "Prezzo di listino",
-        "sale_price": "Prezzo scontato",
+        "sale_price": "Prezzo di vendita",
         "unit_price": "Prezzo unitario"
       },
       "share": "Condividi questo prodotto",
@@ -146,9 +146,7 @@
       },
       "view_full_details": "Visualizza dettagli completi",
       "include_taxes": "Imposte incluse.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Spese di spedizione</a> calcolate al check-out.",
-      "choose_options": "Scegli opzioni",
-      "choose_product_options": "Scegli opzioni per {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Spese di spedizione</a> calcolate al check-out."
     },
     "modal": {
       "label": "Galleria contenuti multimediali"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Applica",
       "clear": "Cancella",
-      "clear_all": "Rimuovi tutto",
+      "clear_all": "Cancella tutto",
       "from": "Da",
       "filter_and_sort": "Filtra e ordina",
       "filter_by_label": "Filtra:",
@@ -178,10 +176,7 @@
       "sort_button": "Ordina",
       "sort_by_label": "Ordina per:",
       "to": "A",
-      "clear_filter": "Rimuovi filtri",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filtri selezionati)",
-      "show_more": "Mostra di più",
-      "show_less": "Mostra di meno"
+      "clear_filter": "Rimuovi filtro"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Commenta",
         "send": "Invia",
         "post_success": "Grazie per averci contattato. Risponderemo il prima possibile.",
-        "error_heading": "Correggi gli errori seguenti:",
-        "title": "Modulo di contatto"
+        "error_heading": "Si prega di regolare il seguente:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Visualizza tutto",
-      "view_all_label": "Visualizza tutti i prodotti della collezione {{ collection_name }}",
-      "slider": "Cursore"
+      "view_all_label": "Visualizza tutti i prodotti della collezione {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Visualizza tutto"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Collezione",
       "empty": "Nessun prodotto trovato",
-      "use_fewer_filters_html": "Utilizza meno filtri o <a class=\"{{ class }}\" href=\"{{ link }}\">rimuovi tutto</a>"
+      "use_fewer_filters_html": "Utilizza meno filtri o <a class=\"{{ class }}\" href=\"{{ link }}\">cancella tutto</a>"
     },
     "video": {
       "load_video": "Carica il video: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Avvia presentazione",
       "carousel": "Carousel",
       "slide": "Scorrimento"
-    },
-    "page": {
-      "title": "Titolo pagina"
     }
   },
   "localization": {
@@ -333,7 +323,7 @@
       "set_default": "Imposta come indirizzo predefinito",
       "add": "Aggiungi indirizzo",
       "update": "Aggiorna indirizzo",
-      "cancel": "Annulla",
+      "cancel": "Chiudi",
       "edit": "Modifica",
       "delete": "Elimina",
       "delete_confirm": "Desideri davvero eliminare questo indirizzo?"
@@ -341,7 +331,7 @@
     "log_in": "Accedi",
     "log_out": "Esci",
     "login_page": {
-      "cancel": "Annulla",
+      "cancel": "Chiudi",
       "create_account": "Crea account",
       "email": "Indirizzo email",
       "forgot_password": "Hai dimenticato la password?",
@@ -354,13 +344,13 @@
     },
     "order": {
       "title": "Ordine {{ name }}",
-      "date_html": "Effettuato il {{ date }}",
+      "date_html": "Effettuato il giorno {{ date }}",
       "cancelled_html": "Ordine annullato il giorno {{ date }}",
       "cancelled_reason": "Motivo: {{ reason }}",
       "billing_address": "Indirizzo di fatturazione",
       "payment_status": "Stato del pagamento",
       "shipping_address": "Indirizzo di spedizione",
-      "fulfillment_status": "Stato di evasione",
+      "fulfillment_status": "Stato dell'evasione",
       "discount": "Sconto",
       "shipping": "Spedizione",
       "tax": "Imposta",
@@ -374,16 +364,15 @@
       "tracking_url": "Link di monitoraggio",
       "tracking_company": "Corriere",
       "tracking_number": "Numero di tracking",
-      "subtotal": "Subtotale",
-      "total_duties": "Dazi"
+      "subtotal": "Subtotale"
     },
     "orders": {
-      "title": "Cronologia ordini",
+      "title": "Cronologia degli ordini",
       "order_number": "Ordine",
       "order_number_link": "Ordine numero {{ number }}",
       "date": "Data",
       "payment_status": "Stato del pagamento",
-      "fulfillment_status": "Stato di evasione",
+      "fulfillment_status": "Stato dell'evasione",
       "total": "Totale",
       "none": "Non hai ancora effettuato ordini."
     },

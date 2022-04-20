@@ -146,9 +146,7 @@
       },
       "view_full_details": "Προβολή όλων των λεπτομερειών",
       "include_taxes": "Ο φόρος συμπεριλαμβάνεται.",
-      "shipping_policy_html": "Τα <a href=\"{{ link }}\">έξοδα αποστολής</a> υπολογίζονται κατά την ολοκλήρωση της αγοράς.",
-      "choose_options": "Ορίστε επιλογές",
-      "choose_product_options": "Ορίστε επιλογές για {{ product_name }}"
+      "shipping_policy_html": "Τα <a href=\"{{ link }}\">έξοδα αποστολής</a> υπολογίζονται κατά την ολοκλήρωση της αγοράς."
     },
     "modal": {
       "label": "Συλλογή μέσων"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Εφαρμογή",
       "clear": "Διαγραφή",
-      "clear_all": "Κατάργηση όλων",
+      "clear_all": "Διαγραφή όλων",
       "from": "Από",
       "filter_and_sort": "Φιλτράρισμα και ταξινόμηση",
       "filter_by_label": "Φιλτράρισμα:",
@@ -178,10 +176,7 @@
       "sort_button": "Ταξινόμηση",
       "sort_by_label": "Ταξινόμηση κατά:",
       "to": "Έως",
-      "clear_filter": "Κατάργηση φίλτρου",
-      "filter_selected_accessibility": "{{ type }} (επιλέχθηκαν {{ count }} φίλτρα)",
-      "show_more": "Εμφάνιση περισσότερων",
-      "show_less": "Εμφάνιση λιγότερων"
+      "clear_filter": "Διαγραφή φίλτρου"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Σχόλιο",
         "send": "Αποστολή",
         "post_success": "Ευχαριστούμε που επικοινωνήσατε μαζί μας. Θα σας απαντήσουμε το συντομότερο δυνατόν.",
-        "error_heading": "Προσαρμόστε τα παρακάτω:",
-        "title": "Φόρμα επικοινωνίας"
+        "error_heading": "Προσαρμόστε τα παρακάτω:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Προβολή όλων",
-      "view_all_label": "Προβολή όλων των προϊόντων στη συλλογή {{ collection_name }}",
-      "slider": "Ρυθμιστικό"
+      "view_all_label": "Προβολή όλων των προϊόντων στη συλλογή {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Προβολή όλων"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Συλλογή",
       "empty": "Δεν βρέθηκαν προϊόντα",
-      "use_fewer_filters_html": "Χρησιμοποιήστε λιγότερα φίλτρα ή <a class=\"{{ class }}\" href=\"{{ link }}\">καταργήστε τα όλα</a>"
+      "use_fewer_filters_html": "Χρησιμοποιήστε λιγότερα φίλτρα ή <a class=\"{{ class }}\" href=\"{{ link }}\">διαγράψτε τα όλα</a>"
     },
     "video": {
       "load_video": "Φόρτωση βίντεο: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Αναπαραγωγή παρουσίασης",
       "carousel": "Καρουζέλ",
       "slide": "Διαφάνεια"
-    },
-    "page": {
-      "title": "Τίτλος σελίδας"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Σύνδεσμος παρακολούθησης",
       "tracking_company": "Εταιρεία ταχυμεταφοράς",
       "tracking_number": "Αριθμός παρακολούθησης",
-      "subtotal": "Υποσύνολο",
-      "total_duties": "Δασμοί"
+      "subtotal": "Υποσύνολο"
     }
   },
   "gift_cards": {

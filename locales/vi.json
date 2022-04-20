@@ -146,9 +146,7 @@
       },
       "view_full_details": "Xem toàn bộ chi tiết",
       "include_taxes": "Đã bao gồm thuế.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Phí vận chuyển</a> được tính khi thanh toán.",
-      "choose_options": "Chọn các tùy chọn",
-      "choose_product_options": "Chọn tùy chọn cho {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Phí vận chuyển</a> được tính khi thanh toán."
     },
     "modal": {
       "label": "Thư viện phương tiện"
@@ -178,10 +176,7 @@
       "sort_button": "Sắp xếp",
       "sort_by_label": "Sắp xếp theo:",
       "to": "Đến",
-      "clear_filter": "Xóa bộ lọc",
-      "filter_selected_accessibility": "{{ type }} (Đã chọn {{ count }} bộ lọc)",
-      "show_more": "Hiển thị thêm",
-      "show_less": "Rút gọn"
+      "clear_filter": "Xóa bộ lọc"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Bình luận",
         "send": "Gửi",
         "post_success": "Cảm ơn đã liên hệ với chúng tôi. Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất.",
-        "error_heading": "Vui lòng điều chỉnh các mục sau:",
-        "title": "Biểu mẫu liên hệ"
+        "error_heading": "Vui lòng điều chỉnh các mục sau:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Xem tất cả",
-      "view_all_label": "Xem toàn bộ sản phẩm trong bộ sưu tập {{ collection_name }}",
-      "slider": "Thanh trượt"
+      "view_all_label": "Xem toàn bộ sản phẩm trong bộ sưu tập {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Xem tất cả"
@@ -288,9 +281,6 @@
       "play_slideshow": "Phát bản trình chiếu",
       "carousel": "Quay vòng",
       "slide": "Trang chiếu"
-    },
-    "page": {
-      "title": "Tiêu đề trang"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Liên kết theo dõi",
       "tracking_company": "Hãng vận chuyển",
       "tracking_number": "Mã theo dõi",
-      "subtotal": "Tổng phụ",
-      "total_duties": "Thuế hải quan"
+      "subtotal": "Tổng phụ"
     }
   },
   "gift_cards": {

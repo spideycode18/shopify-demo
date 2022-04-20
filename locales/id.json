@@ -146,9 +146,7 @@
       },
       "view_full_details": "Lihat detail lengkap",
       "include_taxes": "Termasuk pajak.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Biaya pengiriman</a> dihitung saat checkout.",
-      "choose_options": "Pilih opsi",
-      "choose_product_options": "Pilih opsi untuk {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Biaya pengiriman</a> dihitung saat checkout."
     },
     "modal": {
       "label": "Galeri media"
@@ -178,10 +176,7 @@
       "sort_button": "Urutkan",
       "sort_by_label": "Urutkan berdasarkan:",
       "to": "Sampai",
-      "clear_filter": "Hapus filter",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filter dipilih)",
-      "show_more": "Selengkapnya",
-      "show_less": "Sembunyikan lainnya"
+      "clear_filter": "Hapus filter"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Komentar",
         "send": "Kirim",
         "post_success": "Terima kasih sudah menghubungi kami. Kami akan segera menghubungi Anda.",
-        "error_heading": "Mohon sesuaikan:",
-        "title": "Formulir kontak"
+        "error_heading": "Mohon sesuaikan:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Lihat semua",
-      "view_all_label": "Lihat semua produk dalam koleksi {{ collection_name }}",
-      "slider": "Slider"
+      "view_all_label": "Lihat semua produk dalam koleksi {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Lihat semua"
@@ -288,9 +281,6 @@
       "play_slideshow": "Putar slideshow",
       "carousel": "Carousel",
       "slide": "Geser"
-    },
-    "page": {
-      "title": "Judul halaman"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Tautan pelacakan",
       "tracking_company": "Kurir",
       "tracking_number": "Nomor pelacakan",
-      "subtotal": "Subtotal",
-      "total_duties": "Bea cukai"
+      "subtotal": "Subtotal"
     }
   },
   "gift_cards": {

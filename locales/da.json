@@ -146,9 +146,7 @@
       },
       "view_full_details": "Se komplette oplysninger",
       "include_taxes": "Inklusive skat.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Levering</a> beregnes ved betaling.",
-      "choose_options": "Vælg muligheder",
-      "choose_product_options": "Vælg muligheder for {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Levering</a> beregnes ved betaling."
     },
     "modal": {
       "label": "Mediegalleri"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Anvend",
       "clear": "Ryd",
-      "clear_all": "Fjern alle",
+      "clear_all": "Ryd alt",
       "from": "Fra",
       "filter_and_sort": "Filtrer og sortér",
       "filter_by_label": "Filter:",
@@ -178,10 +176,7 @@
       "sort_button": "Sortér",
       "sort_by_label": "Sortér efter:",
       "to": "Til",
-      "clear_filter": "Fjern filter",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filtre er valgt)",
-      "show_more": "Vis mere",
-      "show_less": "Vis mindre"
+      "clear_filter": "Ryd filter"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Kommentar",
         "send": "Send",
         "post_success": "Tak for din henvendelse. Vi kontakter dig hurtigst muligt.",
-        "error_heading": "Juster følgende:",
-        "title": "Kontaktformular"
+        "error_heading": "Juster følgende:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Se alle",
-      "view_all_label": "Se alle produkter i kollektionen {{ collection_name }}",
-      "slider": "Diasshow"
+      "view_all_label": "Se alle produkter i kollektionen {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Se alle"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Kollektion",
       "empty": "Der blev ikke fundet nogen produkter",
-      "use_fewer_filters_html": "Brug færre filtre, eller <a class=\"{{ class }}\" href=\"{{ link }}\">fjern alle</a>"
+      "use_fewer_filters_html": "Brug færre filtre, eller <a class=\"{{ class }}\" href=\"{{ link }}\">ryd alt</a>"
     },
     "video": {
       "load_video": "Indlæs video: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Afspil diasshow",
       "carousel": "Karrusel",
       "slide": "Dias"
-    },
-    "page": {
-      "title": "Sidetitel"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Sporingslink",
       "tracking_company": "Fragtfirma",
       "tracking_number": "Trackingnummer",
-      "subtotal": "Subtotal",
-      "total_duties": "Told"
+      "subtotal": "Subtotal"
     }
   },
   "gift_cards": {

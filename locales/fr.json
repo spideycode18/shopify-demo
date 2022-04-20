@@ -146,9 +146,7 @@
       },
       "view_full_details": "Afficher tous les détails",
       "include_taxes": "Taxes incluses.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition</a> calculés à l'étape de paiement.",
-      "choose_options": "Choisir des options",
-      "choose_product_options": "Choisir des options pour {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frais d'expédition</a> calculés à l'étape de paiement."
     },
     "modal": {
       "label": "Galerie de supports multimédias"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Appliquer",
       "clear": "Effacer",
-      "clear_all": "Tout supprimer",
+      "clear_all": "Tout effacer",
       "from": "De",
       "filter_and_sort": "Filtrer et trier",
       "filter_by_label": "Filtre :",
@@ -178,10 +176,7 @@
       "sort_button": "Trier",
       "sort_by_label": "Trier par :",
       "to": "À",
-      "clear_filter": "Supprimer le filtre",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filtres sélectionnés)",
-      "show_more": "Afficher plus",
-      "show_less": "Afficher moins"
+      "clear_filter": "Effacer le filtre"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Commentaire",
         "send": "Envoyer",
         "post_success": "Merci de nous avoir contactés. Nous vous répondrons dès que possible.",
-        "error_heading": "Veuillez ajuster les éléments suivants :",
-        "title": "Formulaire de contact"
+        "error_heading": "Veuillez ajuster les éléments suivants :"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Tout afficher",
-      "view_all_label": "Afficher tous les produits de la collection {{ collection_name }}",
-      "slider": "Carrousel"
+      "view_all_label": "Afficher tous les produits de la collection {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Tout afficher"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Collection",
       "empty": "Aucun produit trouvé",
-      "use_fewer_filters_html": "Utiliser moins de filtres ou <a class=\"{{ class }}\" href=\"{{ link }}\">tout supprimer</a>"
+      "use_fewer_filters_html": "Utiliser moins de filtres ou <a class=\"{{ class }}\" href=\"{{ link }}\">tout effacer</a>"
     },
     "video": {
       "load_video": "Charger la vidéo : {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Lire le diaporama",
       "carousel": "Carrousel",
       "slide": "Diapositive"
-    },
-    "page": {
-      "title": "Titre de la page"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Lien de suivi",
       "tracking_company": "Transporteur",
       "tracking_number": "Numéro de suivi",
-      "subtotal": "Sous-total",
-      "total_duties": "Frais de douane"
+      "subtotal": "Sous-total"
     }
   },
   "gift_cards": {

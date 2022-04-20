@@ -146,9 +146,7 @@
       },
       "view_full_details": "Ver informações completas",
       "include_taxes": "Tributo incluído.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Frete</a> calculado no checkout.",
-      "choose_options": "Escolher opções",
-      "choose_product_options": "Escolha opções para {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frete</a> calculado no checkout."
     },
     "modal": {
       "label": "Galeria de mídia"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Aplicar",
       "clear": "Limpar",
-      "clear_all": "Remover tudo",
+      "clear_all": "Limpar tudo",
       "from": "De",
       "filter_and_sort": "Filtrar e organizar",
       "filter_by_label": "Filtrar:",
@@ -178,10 +176,7 @@
       "sort_button": "Organizar",
       "sort_by_label": "Ordenar por:",
       "to": "Para",
-      "clear_filter": "Remover filtro",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filtros selecionados)",
-      "show_more": "Exibir mais",
-      "show_less": "Exibir menos"
+      "clear_filter": "Limpar filtro"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Comentário",
         "send": "Enviar",
         "post_success": "Agradecemos seu contato. Retornaremos o mais rápido possível.",
-        "error_heading": "Ajuste o seguinte:",
-        "title": "Formulário de contato"
+        "error_heading": "Ajuste o seguinte:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Ver tudo",
-      "view_all_label": "Ver todos os produtos da coleção {{ collection_name }}",
-      "slider": "Controle deslizante"
+      "view_all_label": "Ver todos os produtos da coleção {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Ver tudo"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Coleção",
       "empty": "Nenhum produto encontrado",
-      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">remover tudo</a>"
+      "use_fewer_filters_html": "Usar menos filtros ou <a class=\"{{ class }}\" href=\"{{ link }}\">limpar tudo</a>"
     },
     "video": {
       "load_video": "Carregar vídeo: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Reproduzir apresentação de slides",
       "carousel": "Carrossel",
       "slide": "Slide"
-    },
-    "page": {
-      "title": "Título da página"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Link de rastreamento",
       "tracking_company": "Transportadora",
       "tracking_number": "Número de rastreamento",
-      "subtotal": "Subtotal",
-      "total_duties": "Tributos de importação"
+      "subtotal": "Subtotal"
     }
   },
   "gift_cards": {

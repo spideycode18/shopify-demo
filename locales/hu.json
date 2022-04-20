@@ -146,9 +146,7 @@
       },
       "view_full_details": "Minden részlet megtekintése",
       "include_taxes": "Tartalmazza az adót.",
-      "shipping_policy_html": "A <a href=\"{{ link }}\">szállítási költséget</a> a megrendeléskor számítjuk ki.",
-      "choose_options": "Válassz a lehetőségek közül",
-      "choose_product_options": "Termékváltozatok – {{ product_name }}"
+      "shipping_policy_html": "A <a href=\"{{ link }}\">szállítási költséget</a> a megrendeléskor számítjuk ki."
     },
     "modal": {
       "label": "Médiatár"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Alkalmaz",
       "clear": "Törlés",
-      "clear_all": "Az összes eltávolítása",
+      "clear_all": "Az összes törlése",
       "from": "Ettől:",
       "filter_and_sort": "Szűrés és rendezés",
       "filter_by_label": "Szűrés:",
@@ -178,10 +176,7 @@
       "sort_button": "Rendezés",
       "sort_by_label": "Rendezési szempont:",
       "to": "Eddig:",
-      "clear_filter": "Szűrő eltávolítása",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} szűrő kiválasztva)",
-      "show_more": "Több részlet",
-      "show_less": "Kevesebb részlet"
+      "clear_filter": "Szűrő kikapcsolása"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Hozzászólás",
         "send": "Küldés",
         "post_success": "Köszönjük, hogy írtál nekünk. A lehető legrövidebb időn belül válaszolni fogunk.",
-        "error_heading": "Kérjük, helyesbítsd a következőket:",
-        "title": "Kapcsolattartói űrlap"
+        "error_heading": "Kérjük, helyesbítsd a következőket:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Az összes megtekintése",
-      "view_all_label": "Az ebben a kollekcióban szereplő összes termék megtekintése: {{ collection_name }}",
-      "slider": "Csúszka"
+      "view_all_label": "Az ebben a kollekcióban szereplő összes termék megtekintése: {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Az összes megtekintése"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Kollekció",
       "empty": "Nincs találat",
-      "use_fewer_filters_html": "Használj kevesebb szűrőt, vagy <a class=\"{{ class }}\" href=\"{{ link }}\">távolítsd el az összeset</a>."
+      "use_fewer_filters_html": "Használj kevesebb szűrőt, vagy <a class=\"{{ class }}\" href=\"{{ link }}\">töröld az összeset</a>."
     },
     "video": {
       "load_video": "Videó betöltése: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Diavetítés indítása",
       "carousel": "Forgótár",
       "slide": "Dia"
-    },
-    "page": {
-      "title": "Oldal címe"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Hivatkozás a csomagkövetéshez",
       "tracking_company": "Futárszolgálat",
       "tracking_number": "Fuvarlevélszám",
-      "subtotal": "Részösszeg",
-      "total_duties": "Vámok"
+      "subtotal": "Részösszeg"
     }
   },
   "gift_cards": {

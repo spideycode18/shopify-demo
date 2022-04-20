@@ -147,9 +147,7 @@
       },
       "view_full_details": "Vedeți detaliile complete",
       "include_taxes": "Taxe incluse.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Taxele de expediere</a> sunt calculate la finalizarea comenzii.",
-      "choose_options": "Alege opțiunile",
-      "choose_product_options": "Alege opțiunile pentru {{ product_name }}"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Taxele de expediere</a> sunt calculate la finalizarea comenzii."
     },
     "modal": {
       "label": "Galerie media"
@@ -157,7 +155,7 @@
     "facets": {
       "apply": "Aplică",
       "clear": "Golește",
-      "clear_all": "Elimină tot",
+      "clear_all": "Golește tot",
       "from": "De la",
       "filter_and_sort": "Filtrează și sortează",
       "filter_by_label": "Filtrează:",
@@ -182,10 +180,7 @@
         "other": "{{ count }} produse",
         "few": "{{ count }} produse"
       },
-      "clear_filter": "Elimină filtrul",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filtre selectate)",
-      "show_more": "Afișează mai mult",
-      "show_less": "Afișează mai puțin"
+      "clear_filter": "Elimină filtrul"
     }
   },
   "templates": {
@@ -217,8 +212,7 @@
         "comment": "Comentariu",
         "send": "Trimiteți",
         "post_success": "Vă mulțumim că ne-ați contactat. Vom lua legătura cu dvs. cât mai curând posibil.",
-        "error_heading": "Vă rugăm să ajustați următoarele:",
-        "title": "Formular de contact"
+        "error_heading": "Vă rugăm să ajustați următoarele:"
       }
     },
     "404": {
@@ -273,8 +267,7 @@
     },
     "featured_collection": {
       "view_all": "Afișați tot",
-      "view_all_label": "Afișați toate produsele din colecția {{ collection_name }}",
-      "slider": "Glisor"
+      "view_all_label": "Afișați toate produsele din colecția {{ collection_name }}"
     },
     "collection_list": {
       "view_all": "Afișați tot"
@@ -282,7 +275,7 @@
     "collection_template": {
       "title": "Colecție",
       "empty": "Nu s-au găsit produse",
-      "use_fewer_filters_html": "Folosește mai puține filtre sau <a class=\"{{ class }}\" href=\"{{ link }}\">elimină-le pe toate</a>"
+      "use_fewer_filters_html": "Utilizați mai puține filtre sau <a class=\"{{ class }}\" href=\"{{ link }}\">goliți tot</a>"
     },
     "video": {
       "load_video": "Încarcă clipul video: {{ description }}"
@@ -295,9 +288,6 @@
       "play_slideshow": "Redă prezentarea de diapozitive",
       "carousel": "Carusel",
       "slide": "Diapozitiv"
-    },
-    "page": {
-      "title": "Titlul paginii"
     }
   },
   "localization": {
@@ -411,8 +401,7 @@
       "tracking_url": "Link de urmărire",
       "tracking_company": "Serviciu de curierat",
       "tracking_number": "Număr de urmărire",
-      "subtotal": "Subtotal",
-      "total_duties": "Taxe vamale"
+      "subtotal": "Subtotal"
     }
   },
   "gift_cards": {

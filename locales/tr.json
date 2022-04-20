@@ -146,9 +146,7 @@
       },
       "view_full_details": "Tüm ayrıntıları görüntüle",
       "include_taxes": "Vergi dahildir.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Kargo</a>, ödeme sayfasında hesaplanır.",
-      "choose_options": "Seçenekleri belirle",
-      "choose_product_options": "{{ product_name }} için seçenekleri belirle"
+      "shipping_policy_html": "<a href=\"{{ link }}\">Kargo</a>, ödeme sayfasında hesaplanır."
     },
     "modal": {
       "label": "Medya galerisi"
@@ -156,7 +154,7 @@
     "facets": {
       "apply": "Uygula",
       "clear": "Temizle",
-      "clear_all": "Tümünü kaldır",
+      "clear_all": "Tümünü temizle",
       "from": "En düşük",
       "filter_and_sort": "Filtrele ve sırala",
       "filter_by_label": "Filtre:",
@@ -178,10 +176,7 @@
       "sort_button": "Sırala",
       "sort_by_label": "Sıralama ölçütü:",
       "to": "En yüksek",
-      "clear_filter": "Filtreyi kaldır",
-      "filter_selected_accessibility": "{{ type }} ({{ count }} filtre seçildi)",
-      "show_more": "Daha fazla göster",
-      "show_less": "Daha az göster"
+      "clear_filter": "Filtreyi temizle"
     }
   },
   "templates": {
@@ -211,8 +206,7 @@
         "comment": "Yorum",
         "send": "Gönder",
         "post_success": "Bizimle iletişime geçtiğiniz için teşekkür ederiz. Mümkün olan en kısa sürede size dönüş yapacağız.",
-        "error_heading": "Lütfen aşağıdakileri düzenleyin:",
-        "title": "İletişim formu"
+        "error_heading": "Lütfen aşağıdakileri düzenleyin:"
       }
     },
     "404": {
@@ -266,8 +260,7 @@
     },
     "featured_collection": {
       "view_all": "Tümünü görüntüle",
-      "view_all_label": "{{ collection_name }} koleksiyonundaki tüm ürünleri görüntüle",
-      "slider": "Kaydırıcı"
+      "view_all_label": "{{ collection_name }} koleksiyonundaki tüm ürünleri görüntüle"
     },
     "collection_list": {
       "view_all": "Tümünü görüntüle"
@@ -275,7 +268,7 @@
     "collection_template": {
       "title": "Koleksiyon",
       "empty": "Ürün bulunamadı",
-      "use_fewer_filters_html": "Daha az filtre kullan veya <a class=\"{{ class }}\" href=\"{{ link }}\">tümünü kaldır</a>"
+      "use_fewer_filters_html": "Daha az filtre kullan veya <a class=\"{{ class }}\" href=\"{{ link }}\">tümünü temizle</a>"
     },
     "video": {
       "load_video": "Videoyu yükle: {{ description }}"
@@ -288,9 +281,6 @@
       "play_slideshow": "Slayt gösterisini oynat",
       "carousel": "Döngü",
       "slide": "Slayt"
-    },
-    "page": {
-      "title": "Sayfa başlığı"
     }
   },
   "localization": {
@@ -404,8 +394,7 @@
       "tracking_url": "Takip bağlantısı",
       "tracking_company": "Kargo Şirketi",
       "tracking_number": "Takip numarası",
-      "subtotal": "Alt toplam",
-      "total_duties": "Gümrük vergileri"
+      "subtotal": "Alt toplam"
     }
   },
   "gift_cards": {
